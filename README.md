@@ -10,7 +10,7 @@ EVERY sprite was made by me using Pixel Studio
 I have to reupload this due to an error.
 
 Itch.io: https://almondknots.itch.io/cinder-bow
-
+---------------------------------------------------
 
 [CONTROLS]
 
@@ -20,13 +20,14 @@ X - Cancels Tower Placement.
 Comment about the game from a friend:
 
 "The Goblins looks like green penguins to me."
-- Jay 
+Jay 
+
 -----------------------------------------------------------------
 Credits:
 SFX Collection: https://soundeffect-lab.info/
 FONTS:
-Pixelta Font | dafont.com
-Lunch Menu Font | dafont.com
+[Pixelta Font | dafont.com](https://www.dafont.com/pixelta.font)
+[Lunch Menu Font | dafont.com](https://www.dafont.com/lunchmenu.font)
 Music Used:
-Main Menu: EPIC MUSIC | Ghostwriter Music - My Child
-Game Background: The Lost World
+Main Menu: [EPIC MUSIC | Ghostwriter Music - My Child](https://www.youtube.com/watch?v=iaZetYaZ8jw&list=PLlbnzwCkgkTCwnLWqijbuggltnlSlApjl)
+Game Background: [The Lost World](https://www.youtube.com/watch?v=QpuM5T_SUPQ&list=RDQpuM5T_SUPQ&start_radio=1)
