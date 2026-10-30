@@ -24,10 +24,19 @@ Jay
 
 -----------------------------------------------------------------
 Credits:
-SFX Collection: https://soundeffect-lab.info/
+
+SFX Collection: 
+
+https://soundeffect-lab.info/
+
 FONTS:
+
 [Pixelta Font | dafont.com](https://www.dafont.com/pixelta.font)
+
 [Lunch Menu Font | dafont.com](https://www.dafont.com/lunchmenu.font)
+
 Music Used:
+
 Main Menu: [EPIC MUSIC | Ghostwriter Music - My Child](https://www.youtube.com/watch?v=iaZetYaZ8jw&list=PLlbnzwCkgkTCwnLWqijbuggltnlSlApjl)
+
 Game Background: [The Lost World](https://www.youtube.com/watch?v=QpuM5T_SUPQ&list=RDQpuM5T_SUPQ&start_radio=1)
